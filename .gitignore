@@ -3,3 +3,5 @@ node_modules
 
 # Ignore o arquivo package-lock.jason
 package-lock.json
+
+yarn.lock
